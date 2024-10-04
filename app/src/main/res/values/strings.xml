@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Libraro</string>
+    <string name="header_image">header image</string>
 </resources>
