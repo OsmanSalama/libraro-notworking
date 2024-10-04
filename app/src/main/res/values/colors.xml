@@ -3,4 +3,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="main_background">#F4EBD4</color>
+    <color name="btn_main">#282828</color>
 </resources>
